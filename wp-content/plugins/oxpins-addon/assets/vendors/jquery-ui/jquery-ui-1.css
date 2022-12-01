@@ -1116,6 +1116,7 @@ button.ui-button::-moz-focus-inner {
 .ui-icon-info { background-position: -16px -144px; }
 .ui-icon-notice { background-position: -32px -144px; }
 .ui-icon-help { background-position: -48px -144px; }
+.ui-icon-eye-open { background-position: -48px -144px; }
 .ui-icon-check { background-position: -64px -144px; }
 .ui-icon-bullet { background-position: -80px -144px; }
 .ui-icon-radio-on { background-position: -96px -144px; }
